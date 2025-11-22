@@ -1,0 +1,154 @@
+{
+  "faqs": [
+    {
+      "question": "When was Mepco Schlenk Engineering College established?",
+      "answer": "The college was established on 17th October 198 4.",
+      "keywords": ["established", "founded", "year", "started", "when", "mepco"]
+    },
+    {
+      "question": "Where is Mepco Schlenk Engineering College located?",
+      "answer": "It is located at Mepco Nagar, Sivakasi, Virudhunagar District, Tamil Nadu – 626005.",
+      "keywords": ["location", "address", "where", "sivakasi", "virudhunagar", "pincode"]
+    },
+    {
+      "question": "Who founded the college?",
+      "answer": "The college was founded by Mepco Schlenk Charities, promoted by The Metal Powder Company (MEPCO) and its German collaborator Schlenk Metallpulver, Germany.",
+      "keywords": ["founder", "who", "charity", "mepco", "schlenk", "german"]
+    },
+    {
+      "question": "What is the college motto?",
+      "answer": "The motto of Mepco Schlenk Engineering College is “Work is Worship.”",
+      "keywords": ["motto", "slogan", "work", "worship"]
+    },
+    {
+      "question": "To which university is the college affiliated?",
+      "answer": "It is autonomous and affiliated to Anna University, Chennai.",
+      "keywords": ["university", "affiliated", "anna", "autonomous", "chennai"]
+    },
+    {
+      "question": "What type of institution is it?",
+      "answer": "It is a self-financing, autonomous engineering college approved by AICTE and accredited by NAAC with A+ grade.",
+      "keywords": ["type", "institution", "self-financing", "aicte", "naac", "a+"]
+    },
+    {
+      "question": "Who is the current Principal of the college?",
+      "answer": "The current Principal is Dr. S. Arivazhagan.",
+      "keywords": ["principal", "head", "dr", "arivazhagan", "current"]
+    },
+    {
+      "question": "Where is the Principal’s office located?",
+      "answer": "The Principal’s office is situated in the Administrative Block of the Mepco campus.",
+      "keywords": ["principal", "office", "administrative", "block", "location"]
+    },
+    {
+      "question": "Approximately how many faculty members work at Mepco?",
+      "answer": "There are around 250+ teaching faculty members across various departments, with a majority holding Ph.D. or postgraduate degrees.",
+      "keywords": ["faculty", "teachers", "number", "250", "phd", "staff"]
+    },
+    {
+      "question": "How experienced are the faculty members?",
+      "answer": "Many professors have 20–35 years of teaching and research experience in their respective fields.",
+      "keywords": ["experience", "faculty", "professors", "years", "20", "35"]
+    },
+    {
+      "question": "What are the main departments in the college?",
+      "answer": "Civil Engineering, Mechanical Engineering, Electrical & Electronics Engineering, Electronics & Communication Engineering, Computer Science & Engineering, Information Technology, Biotechnology, Biomedical Engineering, Artificial Intelligence and Data Science, Architecture.",
+      "keywords": ["departments", "branches", "courses", "civil", "mechanical", "cse", "it", "biotech", "ai"]
+    },
+    {
+      "question": "What are some of the postgraduate programs offered?",
+      "answer": "The college offers M.E., M.Tech., MBA, and MCA programs in various specializations like Power Electronics, CAD/CAM, Applied Electronics, and Computer Science.",
+      "keywords": ["postgraduate", "pg", "me", "mtech", "mba", "mca", "specialization"]
+    },
+    {
+      "question": "Does the college have research facilities?",
+      "answer": "Yes, Mepco has recognized research centers under Anna University and offers Ph.D. programs in multiple disciplines.",
+      "keywords": ["research", "phd", "centers", "anna university", "facilities"]
+    },
+    {
+      "question": "What is the size of the campus?",
+      "answer": "The campus spreads across 195 acres of land with lush greenery.",
+      "keywords": ["campus", "size", "acres", "195", "area", "land"]
+    },
+    {
+      "question": "Where is the playground located?",
+      "answer": "The playground is situated near the hostel zone, used for football, cricket, athletics, and other sports.",
+      "keywords": ["playground", "ground", "sports", "hostel", "location"]
+    },
+    {
+      "question": "What facilities are available on campus?",
+      "answer": "Facilities include hostels, Wi-Fi, library, gym, auditorium, sports complex, medical center, and transport services.",
+      "keywords": ["facilities", "hostel", "wifi", "library", "gym", "auditorium", "medical", "transport"]
+    },
+    {
+      "question": "What are the canteen facilities like?",
+      "answer": "The canteen provides a variety of South Indian meals, snacks, and beverages at affordable prices — typically ₹30–₹70 per meal.",
+      "keywords": ["canteen", "food", "mess", "price", "30", "70", "meal"]
+    },
+    {
+      "question": "Is there a general store on campus?",
+      "answer": "Yes, a general store sells stationery, snacks, and essential supplies, with reasonable student pricing (₹10–₹100 range for common items).",
+      "keywords": ["store", "shop", "stationery", "snacks", "general", "campus"]
+    },
+    {
+      "question": "What is “Fiesta” in Mepco?",
+      "answer": "Fiesta is one of the annual cultural fests organized by students, featuring dance, music, literary, and art competitions.",
+      "keywords": ["fiesta", "cultural", "fest", "dance", "music", "art", "event"]
+    },
+    {
+      "question": "What is “Legacy” in Mepco?",
+      "answer": "Legacy is a technical symposium organized by the Computer Science and IT departments, focusing on coding, design, and innovation challenges.",
+      "keywords": ["legacy", "symposium", "cse", "it", "coding", "technical", "event"]
+    },
+    {
+      "question": "What are some other popular fests?",
+      "answer": "Mepco Mega Expo – A project exhibition, Sports Fest – Inter-department competitions, Department Symposiums – Organized by each branch (e.g., Electrofocus, Mechvista).",
+      "keywords": ["fests", "events", "mega expo", "sports fest", "electrofocus", "mechvista"]
+    },
+    {
+      "question": "What are the basic college rules?",
+      "answer": "Students must maintain discipline, follow dress code, ensure minimum 75% attendance, avoid mobile usage during class hours, and follow ethical academic behavior.",
+      "keywords": ["rules", "discipline", "attendance", "75%", "mobile", "dress code"]
+    },
+    {
+      "question": "What is the anti-ragging policy at Mepco?",
+      "answer": "The college has a zero-tolerance policy towards ragging with a dedicated Anti-Ragging Cell.",
+      "keywords": ["ragging", "anti-ragging", "policy", "zero tolerance", "cell"]
+    },
+    {
+      "question": "Is there a dress code for students?",
+      "answer": "Yes, students are required to wear formal dress on all working days; lab coats are mandatory during practical sessions.",
+      "keywords": ["dress code", "formal", "lab coat", "uniform", "rules"]
+    },
+    {
+      "question": "What about placements at Mepco?",
+      "answer": "Mepco has an excellent placement record with top recruiters like TCS, Infosys, Wipro, HCL, Capgemini, Zoho, and L&T. The average salary package ranges between 4–5 LPA for most departments.",
+      "keywords": ["placement", "jobs", "companies", "tcs", "zoho", "wipro", "salary", "lpa"]
+    },
+    {
+      "question": "What student clubs and associations exist on campus?",
+      "answer": "Clubs include IEEE, ISTE, IETE, SAE, Rotaract, Fine Arts Club, NSS, and Literary Association.",
+      "keywords": ["clubs", "associations", "ieee", "rotaract", "nss", "fine arts", "sae"]
+    },
+    {
+      "question": "Does the college offer hostel facilities for both boys and girls?",
+      "answer": "Yes, separate well-maintained hostels are available for both boys and girls with Wi-Fi and mess facilities.",
+      "keywords": ["hostel", "boys", "girls", "accommodation", "wifi", "mess"]
+    },
+    {
+      "question": "What are some notable alumni from Mepco?",
+      "answer": "Alumni are placed in reputed companies like Infosys, Zoho, TCS, and abroad in top universities and industries.",
+      "keywords": ["alumni", "notable", "famous", "infosys", "zoho", "tcs", "abroad"]
+    },
+    {
+      "question": "What are the college working hours?",
+      "answer": "The regular working hours are 8:30 AM to 4:15 PM, Monday to Friday.",
+      "keywords": ["timings", "hours", "college time", "8:30", "4:15", "working"]
+    },
+    {
+      "question": "What makes Mepco unique among engineering colleges?",
+      "answer": "Its discipline, strong industry tie-ups, consistent academic results, and autonomous curriculum make Mepco one of Tamil Nadu’s leading private engineering institutions.",
+      "keywords": ["unique", "special", "why mepco", "discipline", "industry", "autonomous"]
+    }
+  ]
+}
